@@ -3,7 +3,7 @@
 this project is based on Atmega328p SIM28 as a GPS sensor and SIM800 for sending data to firebase (remote server) and it is battery powered device .
 
 ![alt text](https://github.com/jawher-Mansour/pics/blob/master/Track1.jpg)
-![alt text](https://github.com/jawher-Mansour/pics/blob/master/Track.jpg)
+![alt text](https://github.com/jawher-Mansour/pics/blob/master/track.jpg)
 
 ### Requirements
 
