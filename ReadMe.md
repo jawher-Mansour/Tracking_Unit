@@ -11,6 +11,6 @@ this project is based on Atmega328p SIM28 as a GPS sensor and SIM800 for sending
 * arduino IDE or any other IDE for AVR microcontrollers
 * tiny GPS library 
 
-###work to do 
+### Work to do 
 * include function to send PMTK commands to SIM28 in order to improve position accuracy
 * include function to enter the ATmega328p in deep sleep mode to improve the tracking unit autonomy 
